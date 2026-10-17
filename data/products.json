@@ -1,0 +1,302 @@
+[
+  {
+    "id": "p1",
+    "category": "Wasmachines",
+    "brand": "Bosch",
+    "model": "WAN2809XNL",
+    "title": "Bosch WAN2809XNL",
+    "priceCents": 69900,
+    "availability": "unavailable",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/wasmachines/"
+  },
+  {
+    "id": "p2",
+    "category": "Wasmachines",
+    "brand": "Siemens",
+    "model": "WG56B2AMNL",
+    "title": "Siemens WG56B2AMNL",
+    "priceCents": 129900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/wasmachines/"
+  },
+  {
+    "id": "p3",
+    "category": "Wasmachines",
+    "brand": "Miele",
+    "model": "WEA135WPS",
+    "title": "Miele WEA135WPS",
+    "priceCents": null,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/wasmachines/"
+  },
+  {
+    "id": "p4",
+    "category": "Wasmachines",
+    "brand": "Miele",
+    "model": "WQ 1000 WPS Nova",
+    "title": "Miele WQ 1000 WPS Nova",
+    "priceCents": 249900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/wasmachines/"
+  },
+  {
+    "id": "p5",
+    "category": "Drogers",
+    "brand": "Bosch",
+    "model": "WTH8300MNL",
+    "title": "Bosch WTH8300MNL",
+    "priceCents": 69900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/drogers/"
+  },
+  {
+    "id": "p6",
+    "category": "Drogers",
+    "brand": "Bosch",
+    "model": "WQJ23209NL",
+    "title": "Bosch WQJ23209NL",
+    "priceCents": 79900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/drogers/"
+  },
+  {
+    "id": "p7",
+    "category": "Drogers",
+    "brand": "Bosch",
+    "model": "WQG235D9NL",
+    "title": "Bosch WQG235D9NL",
+    "priceCents": 89900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/drogers/"
+  },
+  {
+    "id": "p8",
+    "category": "Drogers",
+    "brand": "Bosch",
+    "model": "WQB245A9NL",
+    "title": "Bosch WQB245A9NL",
+    "priceCents": 109900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/drogers/"
+  },
+  {
+    "id": "p9",
+    "category": "Drogers",
+    "brand": "Siemens",
+    "model": "WQ33G1DENL",
+    "title": "Siemens WQ33G1DENL",
+    "priceCents": 89900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/drogers/"
+  },
+  {
+    "id": "p10",
+    "category": "Drogers",
+    "brand": "Siemens",
+    "model": "WQ45H2A9NL",
+    "title": "Siemens WQ45H2A9NL",
+    "priceCents": 109900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/drogers/"
+  },
+  {
+    "id": "p11",
+    "category": "Drogers",
+    "brand": "Siemens",
+    "model": "WR47B2C9NL",
+    "title": "Siemens WR47B2C9NL",
+    "priceCents": 139900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/drogers/"
+  },
+  {
+    "id": "p12",
+    "category": "Drogers",
+    "brand": "Miele",
+    "model": "TEA535WP",
+    "title": "Miele TEA535WP",
+    "priceCents": 114900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/drogers/"
+  },
+  {
+    "id": "p13",
+    "category": "Drogers",
+    "brand": "Miele",
+    "model": "TEC655WP",
+    "title": "Miele TEC655WP",
+    "priceCents": 129900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/drogers/"
+  },
+  {
+    "id": "p14",
+    "category": "Drogers",
+    "brand": "Miele",
+    "model": "TEH795WP",
+    "title": "Miele TEH795WP",
+    "priceCents": 156900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/drogers/"
+  },
+  {
+    "id": "p15",
+    "category": "Drogers",
+    "brand": "Miele",
+    "model": "TQ 1000 WP",
+    "title": "Miele TQ 1000 WP",
+    "priceCents": 249900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/drogers/"
+  },
+  {
+    "id": "p16",
+    "category": "Vaatwassers",
+    "brand": "Bosch",
+    "model": "SMV4HLX11E",
+    "title": "Bosch SMV4HLX11E",
+    "priceCents": 79900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/vaatwassers/"
+  },
+  {
+    "id": "p17",
+    "category": "Vaatwassers",
+    "brand": "Bosch",
+    "model": "SMV4EBX33E",
+    "title": "Bosch SMV4EBX33E",
+    "priceCents": 94900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/vaatwassers/"
+  },
+  {
+    "id": "p18",
+    "category": "Vaatwassers",
+    "brand": "Bosch",
+    "model": "SBV4HBX23E",
+    "title": "Bosch SBV4HBX23E",
+    "priceCents": 94900,
+    "availability": "unavailable",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/vaatwassers/"
+  },
+  {
+    "id": "p19",
+    "category": "Vaatwassers",
+    "brand": "Bosch",
+    "model": "SMI4HBS12E",
+    "title": "Bosch SMI4HBS12E",
+    "priceCents": 89900,
+    "availability": "unavailable",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/vaatwassers/"
+  },
+  {
+    "id": "p20",
+    "category": "Vaatwassers",
+    "brand": "Siemens",
+    "model": "SN63EX23BE",
+    "title": "Siemens SN63EX23BE",
+    "priceCents": 89900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/vaatwassers/"
+  },
+  {
+    "id": "p21",
+    "category": "Vaatwassers",
+    "brand": "Siemens",
+    "model": "SN65EX15BE",
+    "title": "Siemens SN65EX15BE",
+    "priceCents": 99900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/vaatwassers/"
+  },
+  {
+    "id": "p22",
+    "category": "Vaatwassers",
+    "brand": "Siemens",
+    "model": "SN65YX05CE",
+    "title": "Siemens SN65YX05CE",
+    "priceCents": 109900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/vaatwassers/"
+  },
+  {
+    "id": "p23",
+    "category": "Vaatwassers",
+    "brand": "Siemens",
+    "model": "SX63EX23BE",
+    "title": "Siemens SX63EX23BE",
+    "priceCents": 99900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/vaatwassers/"
+  },
+  {
+    "id": "p24",
+    "category": "Vaatwassers",
+    "brand": "Siemens",
+    "model": "SX65EX14BE",
+    "title": "Siemens SX65EX14BE",
+    "priceCents": 109900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/vaatwassers/"
+  },
+  {
+    "id": "p25",
+    "category": "Vaatwassers",
+    "brand": "Siemens",
+    "model": "SX65YX05CE",
+    "title": "Siemens SX65YX05CE",
+    "priceCents": 114900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/vaatwassers/"
+  },
+  {
+    "id": "p26",
+    "category": "Vaatwassers",
+    "brand": "Miele",
+    "model": "G5632 SCI",
+    "title": "Miele G5632 SCI",
+    "priceCents": 114900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/vaatwassers/"
+  },
+  {
+    "id": "p27",
+    "category": "Vaatwassers",
+    "brand": "Miele",
+    "model": "G5663 SCVi",
+    "title": "Miele G5663 SCVi",
+    "priceCents": 119900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/vaatwassers/"
+  },
+  {
+    "id": "p28",
+    "category": "Vaatwassers",
+    "brand": "Miele",
+    "model": "G7293 SCVI",
+    "title": "Miele G7293 SCVI",
+    "priceCents": 169900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/vaatwassers/"
+  },
+  {
+    "id": "p29",
+    "category": "Vaatwassers",
+    "brand": "Miele",
+    "model": "G5668 SCVI XXL",
+    "title": "Miele G5668 SCVI XXL",
+    "priceCents": 134900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/vaatwassers/"
+  },
+  {
+    "id": "p30",
+    "category": "Vaatwassers",
+    "brand": "Miele",
+    "model": "G7298 SCVI XXL",
+    "title": "Miele G7298 SCVI XXL",
+    "priceCents": 174900,
+    "availability": "unverified",
+    "source": "https://www.antoelektra.nl/assortiment-wassen-drogen/vaatwassers/"
+  }
+]
