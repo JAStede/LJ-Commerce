@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-17",
+  "productRecords": 97,
+  "categoryCounts": {
+    "Wasmachines": 15,
+    "Drogers": 19,
+    "Vaatwassers": 16,
+    "Waterkokers": 17,
+    "Broodroosters": 23,
+    "Citruspersen": 7
+  },
+  "uniqueModels": 97,
+  "knownPrices": 60,
+  "missingPrices": 37,
+  "currentPublishedHtmlPages": 1,
+  "plannedProductPages": 97,
+  "plannedCategoryPages": 6,
+  "illustrativeTotalWith12CorePages": 115,
+  "notes": [
+    "Een productrecord is nog geen individuele HTML-URL.",
+    "Producten en prijzen zijn niet volledig gevalideerd.",
+    "Smeg kleurvarianten tellen hier als aparte SKU; webshop kan ze later op een productpagina groeperen.",
+    "12 vaste paginas is een planningsaanname, niet gebouwd."
+  ]
+}
